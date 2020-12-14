@@ -1,1 +1,1 @@
-# Link-Prediction-Facebook-Pages
+# Link Prediction: Facebook Pages
